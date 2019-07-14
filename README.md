@@ -43,5 +43,10 @@ If you make changes to the Gemfile or the Compose file to try out some different
 - https://www.engineyard.com/blog/active-storage
 - https://tech.kartenmacherei.de/scaling-activestorage-21e962f708d7
 
+Devise tutorials;
+- https://github.com/plataformatec/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-up-(registration)
+- https://guides.railsgirls.com/devise
+- https://stackoverflow.com/questions/24272607/determine-redirect-paths-after-sign-up-with-devise
+
 ## Author
 Sylvance Kerandi.
